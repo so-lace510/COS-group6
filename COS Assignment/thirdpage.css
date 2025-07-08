@@ -1,0 +1,87 @@
+.body{
+  height: 2000px;
+  background-color: rgb(226, 223, 223);
+}
+
+.one{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  height: 140px;
+  z-index: 2;
+  background-color: white;
+}
+
+.two{
+  margin-top: 8px;
+  color: grey;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.three{
+  color: black;
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.four{
+  margin-bottom: 5px;
+  width: 500px;
+  height: 25px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: wheat;
+}
+
+.six{
+  margin-top: 6px;
+}
+
+.seven{
+  margin-top: 300px;
+}
+
+.button{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-left: 20px;
+  margin-top: 150px;
+  width: 550px;
+  height: 130px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
+
+.sub-one{
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.button-one{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-left: 20px;
+  width: 550px;
+  height: 130px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
+
+.button-two{
+  position: fixed;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  height: 60px;
+  background-color: white;
+  border: none;
+}

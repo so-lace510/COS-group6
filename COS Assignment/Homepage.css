@@ -1,0 +1,33 @@
+.body{
+  background-color: goldenrod;
+}
+
+.div-one{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.one{
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+.two{
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+.three{
+  margin-bottom: 60px;
+  font-size: 15px;
+}
+
+.four{
+  padding: 15px;
+  font-size: 20px;
+  background-color: white;
+  border: none;
+  border-radius: 18px;
+}

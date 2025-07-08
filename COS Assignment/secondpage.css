@@ -1,0 +1,40 @@
+.body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  background-color: rgb(245, 243, 243);
+}
+
+
+.one{
+  margin-bottom: 50px;
+  width: 500px;
+  height: 40px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
+
+.two{
+  margin-bottom: 50px;
+  width: 500px;
+  height: 40px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
+
+.three{
+  margin-bottom: 140px;
+  width: 140px;
+  height: 45px;
+  text-align: center;
+  border-radius: 25px;
+  border: none;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
